@@ -1,5 +1,5 @@
 body{
-    background-color: blanchedalmond;
+    background-color: thistle;
 }
 
 table, th, td{
@@ -18,7 +18,7 @@ p{
 }
 
 .content{
-    background-color: cadetblue;
+    background-color: rgb(79, 197, 244);
     margin: 0 auto;
     padding: 20px;
     border-radius: 8px;
@@ -35,7 +35,7 @@ p{
 }
 
 #tabel1 th{
-    background-color: rgb(97, 97, 250);
+    background-color: blue;
 }
 
 #tabel2{
@@ -57,6 +57,7 @@ h3{
     display: block;
     width: 100%;
     height: 30px;   
+    background-color: rgb(212, 209, 209);
 }
 
 #pilihan{
@@ -64,10 +65,12 @@ h3{
     margin: 0;
     width: 100%;
     height: 35px;
+    background-color: rgb(212, 209, 209);
 }
 
 #teksarea{
     width: 100%;
+    background-color: rgb(212, 209, 209);
 }
 
 .nama, .email, .hape, .pilihan{
@@ -78,4 +81,5 @@ h3{
     width: 100%;
     height: 30px;
     margin: 0;
+    background-color: rgb(212, 209, 209);
 }
